@@ -80,6 +80,7 @@ I want to add items to my shopping cart so that I can either remove them, contin
   * The website is opened https://www.saucedemo.com/ is opened.
   * The user is logged in with valid credentials (E.g.,`standard_user` / `secret_sauce`).
   * The main inventory page is displayed.
+  * Default number of items is "1".
 
 | # | Test Steps | Test Data | Expected Results |
 |---|---|---|---|
